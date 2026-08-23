@@ -32,7 +32,7 @@ export default function Newsletter() {
                   Stay Connected
                 </p>
                 <h2 className="mt-4 font-display text-3xl text-cream lg:text-4xl">
-                  Join the Sasrika Circle
+                  Join the Thalam Circle
                 </h2>
                 <p className="mt-4 text-cream/60 leading-relaxed">
                   Be the first to discover new collections, exclusive offers, and

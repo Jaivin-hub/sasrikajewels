@@ -31,7 +31,7 @@ export default function Footer() {
         <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-4">
           <div className="lg:col-span-1">
             <Link to="/" className="inline-block">
-              <span className="font-display text-3xl font-semibold">Sasrika</span>
+              <span className="font-display text-3xl font-semibold">Thalam</span>
               <span className="block text-[10px] uppercase tracking-[0.35em] text-gold mt-1">
                 Jewels
               </span>
@@ -130,7 +130,7 @@ export default function Footer() {
         <div className="line-gold mt-14 mb-8 opacity-30" />
 
         <div className="flex flex-col items-center justify-between gap-4 text-xs text-cream/40 sm:flex-row">
-          <p>&copy; 2026 Sasrika Jewels. All rights reserved.</p>
+          <p>&copy; 2026 Thalam Jewels. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-gold transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-gold transition-colors">Terms of Service</a>

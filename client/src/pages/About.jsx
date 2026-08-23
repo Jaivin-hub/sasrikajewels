@@ -41,7 +41,7 @@ export default function About() {
               A Legacy of Brilliance
             </h1>
             <p className="mt-6 text-lg text-muted leading-relaxed">
-              For over two decades, Sasrika Jewels has been synonymous with elegance,
+              For over two decades, Thalam Jewels has been synonymous with elegance,
               craftsmanship, and trust — creating heirlooms that transcend generations.
             </p>
           </AnimatedSection>
@@ -66,7 +66,7 @@ export default function About() {
               <h2 className="font-display text-4xl text-ink">Our Story</h2>
               <div className="mt-6 space-y-4 text-muted leading-relaxed">
                 <p>
-                  Sasrika Jewels began as a small atelier in Trivandrum, founded
+                  Thalam Jewels began as a small atelier in Trivandrum, founded
                   by Saranyasree with a vision to create jewelry that
                   celebrates Indian heritage while embracing modern aesthetics.
                 </p>

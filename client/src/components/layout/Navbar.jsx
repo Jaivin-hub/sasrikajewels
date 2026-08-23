@@ -38,7 +38,7 @@ export default function Navbar() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 lg:px-8">
           <Link to="/" className="group flex flex-col">
             <span className="font-display text-2xl font-semibold tracking-wide text-ink lg:text-3xl">
-              Sasrika
+              Thalam
             </span>
             <span className="text-[9px] uppercase tracking-[0.35em] text-gold-dark group-hover:text-gold transition-colors">
               Jewels

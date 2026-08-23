@@ -169,7 +169,7 @@ export default function Contact() {
           <div className="relative aspect-[21/9] overflow-hidden bg-cream-dark">
             <img
               src={images.artisan}
-              alt="Sasrika Jewels boutique in Trivandrum"
+              alt="Thalam Jewels boutique in Trivandrum"
               className="absolute inset-0 h-full w-full object-cover opacity-60"
             />
             <div className="absolute inset-0 flex items-center justify-center bg-ink/30">

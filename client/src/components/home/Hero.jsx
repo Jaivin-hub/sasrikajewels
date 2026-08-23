@@ -105,7 +105,7 @@ export default function Hero() {
                 >
                   <img
                     src={featuredNecklace}
-                    alt="Sasrika Jewels featured necklace"
+                    alt="Thalam Jewels featured necklace"
                     className="absolute inset-0 z-0 h-full w-full object-cover object-center"
                     loading="eager"
                     decoding="async"

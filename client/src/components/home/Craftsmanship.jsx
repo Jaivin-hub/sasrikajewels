@@ -42,7 +42,7 @@ export default function Craftsmanship() {
         <div className="grid items-center gap-16 lg:grid-cols-2">
           <AnimatedSection direction="right">
             <p className="text-[11px] font-medium uppercase tracking-[0.35em] text-gold">
-              The Sasrika Promise
+              The Thalam Promise
             </p>
             <h2 className="mt-4 font-display text-4xl text-cream lg:text-5xl leading-tight">
               Where Artistry
@@ -50,7 +50,7 @@ export default function Craftsmanship() {
               <span className="text-gradient-gold italic">Meets Legacy</span>
             </h2>
             <p className="mt-6 text-cream/60 leading-relaxed">
-              Born in the heart of Trivandrum, Sasrika Jewels blends
+              Born in the heart of Trivandrum, Thalam Jewels blends
               centuries-old Indian craftsmanship with contemporary design sensibilities.
               Each creation is a testament to our unwavering commitment to excellence.
             </p>

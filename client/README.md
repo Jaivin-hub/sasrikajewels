@@ -1,4 +1,4 @@
-# Sasrika Jewels
+# Thalam Jewels
 
 Elegance in every sparkle — a luxury ecommerce storefront built with React, Vite, and Tailwind CSS.
 
