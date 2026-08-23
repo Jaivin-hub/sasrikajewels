@@ -4,7 +4,7 @@ export const contact = {
   email: 'Thalamjewels@gmail.com',
   location: 'Trivandrum',
   facebook: 'Thalam Jewels',
-  instagram: 'Thalamjewels',
+  instagram: 'thalamfashionjewellers',
   hours: 'Mon – Sat: 10AM – 8PM | Sun: 11AM – 6PM',
 }
 
